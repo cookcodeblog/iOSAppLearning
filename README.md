@@ -9,3 +9,4 @@
 * [How to Make an App | EP 3 | Array in Swift Tutorial](https://www.youtube.com/watch?v=IsF_lCzefMc)
 * [How to Make an App | EP 4 | Control Flow in Swift Tutorial](https://www.youtube.com/watch?v=Ui2W444aff8)
 * [How to Make an App | EPS 5 | For Loop in Swift Tutorial, Xcode](https://www.youtube.com/watch?v=jWaMACvrAlA)
+* [How to Make an iPhone App | EPS 6 | Switch Statement in Swift Tutorial, Xcode](https://www.youtube.com/watch?v=Lizss6VvdDc)
