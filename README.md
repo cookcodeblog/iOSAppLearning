@@ -2,6 +2,8 @@
 
 ## Official documents
 
+* [Apple Swift developer resources](https://developer.apple.com/swift/resources/)
+* [Swift] (https://swift.org/)
 
 ## As a Beginner
 
