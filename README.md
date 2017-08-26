@@ -27,7 +27,7 @@
 * [Cocoapods](https://cocoapods.org/) (Package dependency management)
 
 
-## Framework and Libararies
+## Framework and Libaries
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) (Elegant HTTP Networking in Swift)
 
