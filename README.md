@@ -19,3 +19,10 @@
 ## Develop iOS App demo
 
 * [ALAMOFIRE: BUILD WEATHER APP WITH REST API, JSON AND ALAMOFIRE IN iOS WITH SWIFT](https://www.youtube.com/watch?v=sd7d4eoM54U)
+
+
+## Resources
+
+### Web API
+
+* [Dark Sky API](https://darksky.net/dev)
