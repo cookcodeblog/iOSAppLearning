@@ -13,7 +13,7 @@ sudo gem install cocoapods
 # Init
 pod init
 
-# Edit Cocoapods
+# Edit Cocoapods settings
 vi Podfile
 
 # Install dependencies
@@ -23,7 +23,7 @@ pod install
 Open .xcworkspace instead of .xcodeproj file, to prevent can't find module problem.
 
 # Run build
-Click *Run* button to build the iOS App project in XCode.
+Click Run button to build the iOS App project in XCode.
 
 ```
 
