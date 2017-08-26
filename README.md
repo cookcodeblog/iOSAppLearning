@@ -20,6 +20,16 @@
 
 * [ALAMOFIRE: BUILD WEATHER APP WITH REST API, JSON AND ALAMOFIRE IN iOS WITH SWIFT](https://www.youtube.com/watch?v=sd7d4eoM54U)
 
+## Development Env Setup
+
+* MacBook
+* XCode (iOS App development IDE)
+* [Cocoapods](https://cocoapods.org/) (Package dependency management)
+
+
+## Framework and Libararies
+
+* [Alamofire](https://github.com/Alamofire/Alamofire) (Elegant HTTP Networking in Swift)
 
 ## Resources
 
