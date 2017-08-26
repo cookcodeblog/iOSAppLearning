@@ -4,6 +4,7 @@
 
 * [Apple Swift developer resources](https://developer.apple.com/swift/resources/)
 * [Swift](https://swift.org/)
+* [Swift 中文指南](http://www.swiftguide.cn/)
 
 ## As a Beginner
 
