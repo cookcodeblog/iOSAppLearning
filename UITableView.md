@@ -20,6 +20,7 @@
 * [UITableView Pt 5/10: CREATE MULTIPLE SECTIONS IN TABLE VIEW](https://www.youtube.com/watch?v=GHTwGi4L_58)
 * [UITableView Pt 6/10: DELETE ROWS FROM TABLE VIEW SWIFT TUTORIAL](https://www.youtube.com/watch?v=iRZq_igJlOA)
 * [UITableView Pt 7/10: DRAG AND DROP TO MOVE CELL IN TABLE VIEW SWIFT TUTORIAL](https://www.youtube.com/watch?v=8T6yOrUJseE)
+* [UITableView Pt 8/10 CREATE STATIC UITABLEVIEW AND UITABLEVIEWCONTROLLER](https://www.youtube.com/watch?v=Nbx44G0oVBg)
 
 
 ### Quick Start
