@@ -34,5 +34,15 @@
 * numberOfRrows in section
 * cellForRow at indexPath
 * dequeue Table View Cell (show data in current Table view cell)
+9. Design the Table View Cell in Story board:
+* Add image view
+* Add title label
+* Add description label
+* Add contraint for above UI components
+* Fix the auto layout issue (red line) to avoid component layout overlap, change content hugging and content compression
+10. Create a subclass of UITableViewCell, to implement how to udpate UI in table view cell:
+* Link TableViewCell class with the new created class
+* Link image view, title label and description label UI components with code
+11. Update cell with UITableViewDataSource in custom UITableViewController
 
 
