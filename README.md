@@ -37,3 +37,8 @@
 ### Web API
 
 * [Weather: Dark Sky API](https://darksky.net/dev)
+
+### Tools
+
+* Chrome JSON Viewer extension
+* [Trello](https://trello.com/) (Task management, task board)
