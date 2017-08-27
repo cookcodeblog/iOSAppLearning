@@ -18,6 +18,7 @@
 * [UITableView Pt 3: Create Basic UITableView and UITableViewController, UITableViewCell](https://www.youtube.com/watch?v=KRFpB-uLPOA)
 * [UITableView Pt 4: Create Custom Table View Cell, Dynamic Table View Cell Height, Self-Sizing Cell](https://www.youtube.com/watch?v=nwnRmw_rjBM)
 * [UITableView Pt 5/10: CREATE MULTIPLE SECTIONS IN TABLE VIEW](https://www.youtube.com/watch?v=GHTwGi4L_58)
+* [UITableView Pt 6/10: DELETE ROWS FROM TABLE VIEW SWIFT TUTORIAL](https://www.youtube.com/watch?v=iRZq_igJlOA)
 
 
 ### Quick Start
