@@ -21,6 +21,7 @@
 * [UITableView Pt 6/10: DELETE ROWS FROM TABLE VIEW SWIFT TUTORIAL](https://www.youtube.com/watch?v=iRZq_igJlOA)
 * [UITableView Pt 7/10: DRAG AND DROP TO MOVE CELL IN TABLE VIEW SWIFT TUTORIAL](https://www.youtube.com/watch?v=8T6yOrUJseE)
 * [UITableView Pt 8/10 CREATE STATIC UITABLEVIEW AND UITABLEVIEWCONTROLLER](https://www.youtube.com/watch?v=Nbx44G0oVBg)
+* [UITableView Pt 9/10 USE SHOW SEGUE TO TRANSITION FROM MASTER TO DETAIL VIEW CONTROLLER](https://www.youtube.com/watch?v=OPe0XPhi5Bg)
 
 
 ### Quick Start
