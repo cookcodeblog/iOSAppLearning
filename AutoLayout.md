@@ -19,4 +19,4 @@ Learn how to clear constraints, but I can't find **Update Framework** menu.
 
 ### Auto Layout Tutorial in Xcode with Swift for iOS 11 (Advanced)
 
-* [Auto Layout Tutorial in Xcode with Swift for iOS 11 | iOS Development Tutorial] (https://www.youtube.com/watch?v=synofzEkUfU#t=8.607561) // TODO
+* [Auto Layout Tutorial in Xcode with Swift for iOS 11 | iOS Development Tutorial](https://www.youtube.com/watch?v=synofzEkUfU#t=8.607561) // TODO
