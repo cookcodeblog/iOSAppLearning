@@ -4,7 +4,7 @@
 
 Auto Layout allows us to create *constaints* that define *relationship* between two views.
 
-
+![Auto Layout Basic Concept](http://wx2.sinaimg.cn/mw690/006RF1rrgy1fizv6u3hr0j30yo0nywnm.jpg)
 
 ### Auto Layout Tutorial (Basic)
 
