@@ -51,6 +51,6 @@ Size:
 
 ### Use "Mouse" set constraints
 
-![Use Mouse set contraints](http://wx2.sinaimg.cn/mw690/006RF1rrgy1fj0yvcwfsoj30u0140gol.jpg)
+![Use Mouse set contraints](http://wx2.sinaimg.cn/mw690/006RF1rrgy1fj0zfopcqpj3140140n12.jpg)
 
 Compare with "Pin" approach, use "Mouse" is more flexible, and can set alignment, and also set constraints to another base view.
