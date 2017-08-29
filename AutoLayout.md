@@ -15,7 +15,12 @@ Learn how to clear constraints, but I can't find **Update Framework** menu.
 
 ### All Things Auto Layout Series
 
-* [iOS Development: Introduction to All Things Auto Layout Series Pt 1](https://www.youtube.com/watch?v=1NomEvSFaVU&list=PLHmNdpdzx21GwEzSt4LNdlUAyQIchiWi7) // ING
+* [iOS Development: Introduction to All Things Auto Layout Series Pt 1](https://www.youtube.com/watch?v=1NomEvSFaVU&list=PLHmNdpdzx21GwEzSt4LNdlUAyQIchiWi7) // TODO
+
+
+### Auto Layout Tutorial in Xcode with Swift for iOS 11 (Advanced)
+
+* [Auto Layout Tutorial in Xcode with Swift for iOS 11 | iOS Development Tutorial](https://www.youtube.com/watch?v=synofzEkUfU#t=8.607561) // ING
 
 **比喻：**
 
@@ -49,9 +54,3 @@ Size:
 ![Use Mouse set contraints](http://wx2.sinaimg.cn/mw690/006RF1rrgy1fj0yvcwfsoj30u0140gol.jpg)
 
 Compare with "Pin" approach, use "Mouse" is more flexible, and can set alignment, and also set constraints to another base view.
-
-
-
-### Auto Layout Tutorial in Xcode with Swift for iOS 11 (Advanced)
-
-* [Auto Layout Tutorial in Xcode with Swift for iOS 11 | iOS Development Tutorial](https://www.youtube.com/watch?v=synofzEkUfU#t=8.607561) // TODO
