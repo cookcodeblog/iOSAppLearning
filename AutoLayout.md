@@ -34,7 +34,7 @@ Auto Layout 简单地来说就像是给一张海报排版，目的是在不同�
 
 #### Use "Pin" set constraints
 
-Click `|-[]-|' menu to fill values (hard code) for:
+Click `|-[]-|` menu to fill values (hard code) for:
 
 Sapces:
 
