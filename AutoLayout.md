@@ -1,4 +1,4 @@
-## Lean to master Auto Layout to make App works nicely on diffent Apple devices
+## Learn to master Auto Layout to make App works nicely on diffent Apple devices
 
 ### What is Auto Layout
 
@@ -20,7 +20,7 @@ Learn how to clear constraints, but I can't find **Update Framework** menu.
 
 ### Auto Layout Tutorial in Xcode with Swift for iOS 11
 
-* [Auto Layout Tutorial in Xcode with Swift for iOS 11 | iOS Development Tutorial](https://www.youtube.com/watch?v=synofzEkUfU#t=8.607561) // ING
+* [Auto Layout Tutorial in Xcode with Swift for iOS 11 | iOS Development Tutorial](https://www.youtube.com/watch?v=synofzEkUfU#t=8.607561)
 
 **比喻：**
 
