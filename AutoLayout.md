@@ -29,14 +29,14 @@ Auto Layout 简单地来说就像是给一张海报排版，目的是在不同�
 
 * 对齐 （比如水平，垂直，居中，两端，左对齐，右对齐等）
 * 间隔 （上，下，左，右间隔）
-* 大小 （图片，文字的宽度，高度）
+* 大小 （图片，文字的宽度，高度, 宽高比）
 * 位置 （相对位置，绝对位置，X/Y坐标）
 
 #### Use "Pin" set constraints
 
-Click `|-[]-|` menu to fill values (hard code) for:
+Click `|-[]-|` menu to set constraints:
 
-Sapces:
+Spaces:
 
 * Top space
 * Bottom space
@@ -47,10 +47,28 @@ Size:
 
 * Width
 * Height
+* Ratio
 
 
 ### Use "Mouse" set constraints
 
 ![Use Mouse set contraints](http://wx2.sinaimg.cn/mw690/006RF1rrgy1fj0zfopcqpj3140140n12.jpg)
 
-Compare with "Pin" approach, use "Mouse" is more flexible, and can set alignment, and also set constraints to another base view.
+### Write code to set constraints
+
+Example:
+Set UITableView row height as auto layout
+```
+tableView.estimatedRowHeight = tableView.rowHeight
+tableView.rowHeight = UITableViewAutomationDimension
+```
+
+### Resolve Auto Layout issues
+
+You can click "Clean constraints" for selected view.
+
+Tips: You can set view background color as non-red and non-yellow to see if has auto layout issues. Red means auto layout error, yellow means auto layout warning.
+
+Tips: Open "Rule" menu to check constraints.
+
+
