@@ -5,6 +5,7 @@
 
 * [Flinto](https://www.flinto.com/) (Prototype iOS App)
 * [Flinto for Mac](https://www.flinto.com/mac/download)
+* [Flinto guide](https://www.flinto.com/guide)
 * [Sketch](http://sketchapp.com) (Draw iOS App UI)
 
 ### Tutorial
