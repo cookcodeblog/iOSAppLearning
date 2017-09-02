@@ -43,3 +43,5 @@
 
 * Chrome JSON Viewer extension
 * [Trello](https://trello.com/) (Task management, task board)
+* ScreenFlow (Screen recorder)
+* QuickTimePlayer (Screen recorder)
