@@ -26,6 +26,7 @@
 * MacBook
 * XCode (iOS App development IDE)
 * [Cocoapods](https://cocoapods.org/) (Package dependency management)
+* [Flinto](https://www.flinto.com/) (Prototype iOS Apps)
 
 
 ## Framework and Libaries
