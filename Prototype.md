@@ -13,3 +13,4 @@
 * [iOS Development Tutorial - Prototype iOS Apps with Flinto](https://www.youtube.com/watch?v=NbdduKMdqeM)
 * [How to Build Interactive Social Networking Apps - Prototype iOS Apps with Flinto](https://www.youtube.com/watch?v=zvbHXy06wjU)
 * [Sketch Tutorial - iOS Design - Draw Carousel Home Screen in Sketch 3](https://www.youtube.com/watch?v=c_WziLq7Bls)
+* [SKETCH绝佳搭配！30秒制作交互原型的次时代神器FLINTO](http://www.uisdc.com/sketch-interaction-prototype-flinto)
