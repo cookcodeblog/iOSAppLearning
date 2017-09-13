@@ -48,3 +48,4 @@
 * ScreenFlow (Screen recorder)
 * QuickTimePlayer (Screen recorder)
 * [XMind 8](http://www.xmind.net/download/mac/) (Mind Map)
+* [Baidu 脑图](http://naotu.baidu.com/home) (Mind Map online)
