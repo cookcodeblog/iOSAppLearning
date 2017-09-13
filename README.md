@@ -47,3 +47,4 @@
 * [Trello](https://trello.com/) (Task management, task board)
 * ScreenFlow (Screen recorder)
 * QuickTimePlayer (Screen recorder)
+* [XMind 8](http://www.xmind.net/download/mac/) (Mind Map)
