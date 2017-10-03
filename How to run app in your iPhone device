@@ -1,0 +1,8 @@
+
+## How to run app in your iPhone device
+
+1. Connect your iPhone device with your Mac book by USB link
+2. Choose device as `iPhone` in Xcode, and then run app
+3. Allow XCode access your iPhone device
+4. In your iPhone device, open `Setting` -> `General` -> `Device Management`, and then choose trust your app with App ID.
+5. Run the app in Xcode again
